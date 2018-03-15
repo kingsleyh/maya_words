@@ -1,0 +1,17 @@
+target
+project/target
+*.class
+.DS_Store
+*.iml
+*.ipr
+*.iws
+.idea
+.shelf
+out
+elm-stuff
+.gradle
+.sass-cache
+node_modules
+validationScenarios.xls
+*.dwarf
+bee-scaffold
